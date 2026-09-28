@@ -1,0 +1,9 @@
+{
+  "name": "genpark-convolutional-2d-forward-backward-skill",
+  "version": "1.0.0",
+  "description": "2D spatial convolution layer forward pass with stride, padding, and max-pooling",
+  "entry_point": "client.py",
+  "mcp_server": "mcp_server.py",
+  "category": "Service",
+  "dependencies": []
+}
