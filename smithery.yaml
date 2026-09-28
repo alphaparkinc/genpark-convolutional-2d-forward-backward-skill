@@ -1,0 +1,6 @@
+# Smithery configuration for genpark-convolutional-2d-forward-backward-skill
+service:
+  name: genpark-convolutional-2d-forward-backward-skill
+  command: python
+  args:
+    - mcp_server.py
