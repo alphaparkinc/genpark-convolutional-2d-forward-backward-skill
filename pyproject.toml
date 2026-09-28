@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-convolutional-2d-forward-backward-skill"
+version = "1.0.0"
+description = "2D spatial convolution layer forward pass with stride, padding, and max-pooling"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/alphaparkinc/genpark-convolutional-2d-forward-backward-skill.git"
